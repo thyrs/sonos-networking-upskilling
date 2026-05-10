@@ -37,7 +37,7 @@ Radio Frequency Interference  (RFI) is a subset of EMI specifically dealing wit
 
 ### Activity class 02: problem - solucion
 <!--! Activity class 02 -->
-check file : "026 Sorting Activity"
+*check file : "026 Sorting Activity"*
 
 
 # Class2.2 - IP Address and MAC Address 
@@ -53,7 +53,7 @@ kahoot:
 
 ### Activity class 02: 029 questions
 *check file : "029 questions"*
-<!--! class activity simple questions-->
+<!--! class activity simple questions.-->
 
 
 
@@ -86,6 +86,8 @@ The range of IPv4 multicast addresses is __224.0.0.0__ to 239.255.255.255. The r
 ### Activity class 02: PT activity
 *check file : "PT activity"*
 * packet tracers:
-* 146 Lab media
-* 135_LAB_IoT
-* 148 physical-mode INT-2.9.2 (research if needed)
+* 023 Lab media
+* 023 LAB_IoT
+* 027 physical-mode INT-2.9.2 (research if needed)
+    - to remove cable take it from the head of the cable and put it back in the cable pegbard
+    - u should get around 50% (take SS)

@@ -54,11 +54,5 @@ WIFI = 802.11 (IEEE)
 * packet tracers:
 * 044 home routerv2
 * 045 Configure a Wireless Router and Client (research if needed)
+* *049 questions*
 
-
-
-### Activity class 04: PT activity
-*check file : "PT activity"*
-* packet tracers:
-* 044 home routerv2
-* 045 Configure a Wireless Router and Client (research if needed)

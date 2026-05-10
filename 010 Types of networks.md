@@ -23,7 +23,7 @@ A Wireless LAN, or WLAN, is a type of local area network that uses wireless comm
 
 ### Activity: simple questions
 *check file: "019 questions.md"*
-<!--! check file: "019 questions.md" -->
+<!--!> check file: "019 questions.md" -->
 
 ### __SOHO__: Small Office and Home Office Networks
 A SOHO (Small Office/Home Office) network typically supports 1 to 10 users and combines both wired and wireless connections. This setup is designed for small businesses or remote professionals.

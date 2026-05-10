@@ -31,7 +31,7 @@
 ### Activity class 03: PT activity
 *check file : "PT activity"*
 * packet tracers:
-* 153 LAB basic configs SW
+* 033 LAB basic configs SW
 * 033 verduras
 * 148 physical-mode INT-2.9.2 (research if needed)
 

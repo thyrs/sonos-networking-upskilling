@@ -1,0 +1,50 @@
+
+
+
+ARP - (Address Resolution protocol)
+
+
+show mac-address-table 
+! shows MAC address Table (CAM Table)
+! privilaged mode command!!
+
+clear mac-address-table  
+! limpia el MAC address Table
+! privilaged mode command!!
+
+ipconfig /all
+! Windows > CMD command: shows ipv4 device address
+
+arp -a
+! Windows > CMD command: shows PC arp table
+
+!      ┌─────────┐
+!  ┌───┤Switch-01├───┐
+!  │   └─┬─────┬─┘   │
+!  │     │     │     │
+!┌─┴─┐ ┌─┴─┐ ┌─┴─┐ ┌─┴─┐
+!│PC1│ │PC2│ │PC3│ │PC4│
+!└───┘ └───┘ └───┘ └───┘
+
+
+1. Flooding
+! When the swith doesnt know the destination MAC-address, it floods all the interfaces !!with exeption of the incomming interface
+
+2. MAC-address learning
+! switch learns by ingress mac-address
+
+3. show mac-address-table 
+! cisco ios privilaged mode command!!
+! Switch saves the information on the "mac-address-table" 
+
+4. 
+
+ipconfig /all
+! Windows > CMD command: shows ipv4 device address
+
+arp -a
+! Windows > CMD command: shows PC ARP table
+
+
+
+
