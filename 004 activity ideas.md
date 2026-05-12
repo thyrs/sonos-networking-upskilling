@@ -1,4 +1,6 @@
 
+<!-- press: alt+z -->
+
 | ID / Title                                       | Task                                                    |     | Comment           |
 | ------------------------------------------------ | ------------------------------------------------------- | --- | ----------------- |
 | 111 Research - Win Shortcuts                     | Research Windows keystrokes                             |     | This was an extra |
@@ -55,6 +57,8 @@
 | student2 |     |     |     |     |     |     |     |     |     |     |     |     |     |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 *(optional)
+
+### Exams
 
 | Attempt  | 1st | 2nd | gitgub username |
 | -------- | --- | --- | --------------- |
