@@ -46,5 +46,6 @@ arp -a
 ! Windows > CMD command: shows PC ARP table
 
 
-
+MAC Aging
+! Each MAC table entry has an aging timer (commonly 300 seconds). If no frames are received from a device before the timer expires, the switch removes the entry.
 
