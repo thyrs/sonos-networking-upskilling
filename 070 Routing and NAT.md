@@ -11,7 +11,7 @@
 
 A PC or host can send a packet to three different destinations: itself, a local host on the same network, or a remote host on another network. Let’s break down each one.
 
-![Alt text](239image-1.png)
+![Alt text](./images/239image-1.png)
 
 ### Itself:
 A host can send a packet to itself, commonly called __pinging the loopback interface__. This __tests__ the host’s own network settings and TCP/IP configuration.

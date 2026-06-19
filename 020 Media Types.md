@@ -19,17 +19,17 @@ Radio Frequency Interference  (RFI) is a subset of EMI specifically dealing wit
 - __Twisted-Pair Cable__:
  * Cable de Red: RJ45 cable connector(Ethernet cable)
 * RJ-11 Cable (telefono)
-![Alt text](144image.png)
+![Alt text](./images/144image.png)
 
 
 ### __Coaxial Cable__
-![Alt text](144image-1.png)
+![Alt text](./images/144image-1.png)
 
 ### __Glass or plastic fibers within cables__ 
   * large distance
   * Expensive 
   * (fiber-optic cable) - Data is encoded into pulses of light.
-    ![023_Fiber.jpg](143_Fiber.jpg)
+    ![023_Fiber.jpg](./images/143_Fiber.jpg)
     
 ### Wireless transmission - Data is encoded via modulation of specific frequencies of electromagnetic waves.
 * WIFI (802.11)
@@ -62,7 +62,7 @@ kahoot:
 
 
 ### Unicast MAC Address (one to one)
-![Alt text](161image-2.png)
+![Alt text](./images/161image-2.png)
 
 
 ### Multicast MAC Address (one to some)
@@ -70,11 +70,11 @@ There is a destination MAC address of 01-00-5E when the encapsulated data is an 
 
 The range of IPv4 multicast addresses is __224.0.0.0__ to 239.255.255.255. The range of IPv6 multicast addresses begins with ff00::/8.
 
-![Alt text](161image-4.png)
+![Alt text](./images/161image-4.png)
 
 ### Broadcast MAC Address (one to all)
 
-![Alt text](161image-3.png)
+![Alt text](./images/161image-3.png)
 
 
 --
