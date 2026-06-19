@@ -1,0 +1,23 @@
+
+
+20.20.20.5
+
+!! ROUTER ISP
+
+interface g0/0
+    ip address 192.168.99.1 255.255.255.0
+    no shutdown 
+interface g0/1
+    ip address 20.20.20.1 255.255.255.0
+    no shutdown 
+
+ip dhcp excluded-address 20.20.20.1 20.20.20.9
+!excludes range 20.20.20.1-20.20.20.9
+ip dhcp excluded-address 20.20.20.254
+!excludes only 20.20.20.254
+ip dhcp pool my_pool_net0
+ network 20.20.20.0 255.255.255.0
+ default-router 20.20.20.1 
+ ! network defaultgateway
+ dns-server 192.168.99.5
+ !
