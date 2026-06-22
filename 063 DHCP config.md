@@ -1,19 +1,10 @@
 
-# DHCP config
-Activity Router simulators 
+# 063 DHCP config
 
-
-### choose a Router GUI simulador:
-- https://www.tp-link.com/us/support/emulator/ 
-- https://demoui.asus.com/
-- http://routeremulator.com/
-- https://www.snbforums.com/threads/router-ui-emulators.30552/
-- https://ui.linksys.com/
-- aries, getwgear  
+## Router GUI simulador: 
+https://ui.linksys.com/ExpertFamily/E3200/1.0.00
 
 look for the DHCP server config and configure this:
-
-https://ui.linksys.com/ExpertFamily/E3200/1.0.00
 
 ###  Configure DHCP services 
 
@@ -27,3 +18,14 @@ network 172.16.254.0/24
     * f. Save
 
 Take and send SS
+
+
+
+
+### choose a Router GUI simulador and try otherone:
+- https://www.tp-link.com/us/support/emulator/ 
+- https://demoui.asus.com/
+- http://routeremulator.com/
+- https://www.snbforums.com/threads/router-ui-emulators.30552/
+- https://ui.linksys.com/
+- aries, getwgear  
