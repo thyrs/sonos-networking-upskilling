@@ -1,5 +1,6 @@
-### PT Activity - unblock / block ports on wireless router
-* check file: "085 lab PT ports"
+### PT Activity - unblock / block ports
+<!--! PT Activity - unblock / block ports on wireless router -->
+check file: "085 lab PT ports"
 
 
 ### router GUI simuladors
@@ -11,5 +12,11 @@
 - aries, getwgear  
 
 - choose a router from the list above and research how to change the following settings:
-- unblock / block ports on wireless router
+
+- unblock / block network ports on wireless router
 - block ports 53(DNS) and 443(HTTPS), take SS 
+- WPA, WPA2, WPA3 (security)   
+- Personal and Enterprise authentication:
+
+
+take SS showing where to find it
