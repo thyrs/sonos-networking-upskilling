@@ -4,11 +4,11 @@
 
 - VScode: https://code.visualstudio.com/Download
 - Extentions:
-    * Better Comments (by Aaron Bond)
-    * Markdown Table (by Takumi Ishii)
-    * Cisco IOS Syntax (by jamiewoodio)
-    * MySQL (by Weijan Chen)
-    * Markdown Preview Mermaid Support (by Matt Bierner)
+    * Better Comments by Aaron Bond
+    * Markdown Table by Takumi Ishii
+    * Cisco IOS Syntax by jamiewoodio
+    * MySQL by Weijan Chen
+    * Markdown Preview Mermaid Support by Matt Bierner
 
 ## You NEED to use VS Code RIGHT NOW! (remote SSH)
 https://www.youtube.com/watch?v=1ZfO149BJvg&ab_channel=NetworkChuck
@@ -33,9 +33,6 @@ texto normal
 __Bold__
 
 *cursive*
-
-# comentarios con colores:
-necesita extencion bettter comments
 
 <!-- commentarios no se ve en el texto para presentar
 seleccione el texto y presione Ctrl + /, para comentar texto -->
@@ -105,7 +102,8 @@ print("hello my people")
 ## Adjuntar una imagen: (Con el archivo de texto en el mismo folder que el .md)
 <!-- user shortcut: Win+Shift+S -->
 
-![example Photo](image.png)
+![example Photo](x-example.jpg)
+
 # Separacion (linea)
 
 ---
@@ -127,15 +125,15 @@ print("hello my people")
 
 
 # Vscode keystrokes and shortcuts:
-```sh
-Ctrl + S # Save note (use auto-save > File > autosave)
-Alt + Z # Word Wrap (View > Word Wrap)
-F2 # change name
-Alt + Shift # Selecion en columna
-Ctrl + Shift + F # (find in files)
-Ctrl + D # selection de objetos iguales
-Alt + up and down arrows # mueve linea de arriba a abajo
-```
+
+Ctrl + S <!-- Save note (use auto-save > File > autosave) -->
+Alt + Z <!-- Word Wrap (View > Word Wrap) -->
+F2 <!-- change name -->
+Alt + Shift <!-- Selecion en columna -->
+Ctrl + Shift + F <!-- (find in files) -->
+Ctrl + D <!-- selection de objetos iguales -->
+Alt + up and down arrows <!-- mueve linea de arriba a abajo -->
+
 ### Create Diagramas ascii art : 
 
 https://asciiflow.com/#/
